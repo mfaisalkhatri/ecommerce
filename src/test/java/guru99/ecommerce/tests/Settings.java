@@ -11,7 +11,7 @@ public class Settings {
 
 	public WebDriver driver;
 	String baseurl = "http://live.guru99.com";
-	String driverpath = "F:\\Driver\\Chrome\\";
+	String driverpath = "D:\\Driver\\Chrome\\";
 	
 	@BeforeTest
 	public void Siteup () {

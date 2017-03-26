@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15209" started-at="2017-03-25T07:48:07Z" finished-at="2017-03-25T07:48:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15209" started-at="2017-03-25T07:48:07Z" finished-at="2017-03-25T07:48:23Z">
+      <class name="guru99.ecommerce.tests.TestCase5">
+        <test-method status="PASS" signature="Siteup()[pri:0, instance:guru99.ecommerce.tests.TestCase5@18be83e4]" name="Siteup" is-config="true" duration-ms="9796" started-at="2017-03-25T13:18:07Z" finished-at="2017-03-25T13:18:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Siteup -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:guru99.ecommerce.tests.TestCase5@18be83e4]" name="Test5" duration-ms="4370" started-at="2017-03-25T13:18:17Z" finished-at="2017-03-25T13:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:guru99.ecommerce.tests.TestCase5@18be83e4]" name="teardown" is-config="true" duration-ms="1013" started-at="2017-03-25T13:18:22Z" finished-at="2017-03-25T13:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- guru99.ecommerce.tests.TestCase5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
